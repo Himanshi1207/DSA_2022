@@ -22,3 +22,17 @@
 >> Time Complexity: Θ(sqrt(n))
 <br />
 >> Auxiliary Space: Θ(1)
+>### Ques 6: Divisible By Thirty (Scaler codex 2.0)
+>> Time Complexity: O(|A|)
+<br />
+>> Auxiliary Space: Θ(1)
+>### Ques 7: Mysterious Girl (Scaler codex 2.0)
+>> Time Complexity: Θ(n)
+<br />
+>> Auxiliary Space: Θ(1)
+<br/>
+>### Ques 8: Boxes In Boxes (UBER)
+>> Time Complexity: Θ(n)
+<br />
+>> Auxiliary Space: Θ(1)
+<br/>

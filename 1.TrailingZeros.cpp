@@ -8,7 +8,7 @@ int trailingZeros(int n)
     return res;
 }
 int main()
-{
+{   
     int n;
     cin >> n;
     cout<<"The trailing zeroes in the number is "<<trailingZeros(n);
