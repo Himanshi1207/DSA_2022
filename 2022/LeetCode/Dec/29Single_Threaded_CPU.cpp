@@ -40,8 +40,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
-    typedef pair<int, int> T; cd..
-        
+    typedef pair<int, int> T; 
 public:
     vector<int> getOrder(vector<vector<int>>& A) {
         priority_queue<T, vector<T>, greater<>> pq; 
@@ -51,7 +50,7 @@ public:
         vector<int> ans;
         while (i < N || pq.size()) { 
             if (pq.empty()) {
-                time = max(time, (long)A[i][0]);
+                time = max(time, (long)A[i][0]); 
             }
             while (i < N && time >= A[i][0]) { 
                 pq.emplace(A[i][1], A[i][2]);
