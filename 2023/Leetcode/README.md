@@ -10,3 +10,11 @@
 > TAG->Easy
 <br>
 > Link->https://leetcode.com/problems/delete-columns-to-make-sorted/
+#### 4th Jan
+> TAG->Medium
+<br>
+> Link->https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
+#### 5th Jan
+> TAG->Medium
+<br>
+> Link->https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
