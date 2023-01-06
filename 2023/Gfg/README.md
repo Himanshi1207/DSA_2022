@@ -20,3 +20,7 @@
 > TAG->Medium
 <br>
 >Link->https://practice.geeksforgeeks.org/problems/8d157f11af5416087251513cfc38ffc4d23be308/1
+#### 6th Jan
+> TAG->Medium
+<br>
+>Link->https://practice.geeksforgeeks.org/problems/1646a9b5169d7571cf672f2a31533af083d1f479/1

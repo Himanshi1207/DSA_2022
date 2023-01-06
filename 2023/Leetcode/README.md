@@ -18,3 +18,7 @@
 > TAG->Medium
 <br>
 > Link->https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+#### 6th Jan
+> TAG->Medium
+<br>
+> Link->https://leetcode.com/problems/maximum-ice-cream-bars/
