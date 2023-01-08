@@ -22,3 +22,11 @@
 > TAG->Medium
 <br>
 > Link->https://leetcode.com/problems/maximum-ice-cream-bars/
+#### 7th Jan
+> TAG->Medium
+<br>
+> Link->https://leetcode.com/problems/gas-station/
+#### 8th Jan
+> TAG->Hard
+<br>
+> Link->https://leetcode.com/problems/max-points-on-a-line/
