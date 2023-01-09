@@ -30,3 +30,7 @@
 > TAG->Hard
 <br>
 > Link->https://leetcode.com/problems/max-points-on-a-line/
+#### 9th Jan
+> TAG->Easy
+<br>
+> Link->https://leetcode.com/problems/binary-tree-preorder-traversal/

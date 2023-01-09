@@ -32,3 +32,7 @@
 > TAG->Easy
 <br>
 >Link->https://practice.geeksforgeeks.org/problems/e0059183c88ab680b2f73f7d809fb8056fe9dc43/1
+#### 9th Jan
+> TAG->Easy
+<br>
+>Link->https://practice.geeksforgeeks.org/problems/33af95e5935f1f2a0c3f5083c4b9d0db68e97bd4/1
