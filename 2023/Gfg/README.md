@@ -36,3 +36,11 @@
 > TAG->Easy
 <br>
 >Link->https://practice.geeksforgeeks.org/problems/33af95e5935f1f2a0c3f5083c4b9d0db68e97bd4/1
+#### 10th Jan
+> TAG->Easy
+<br>
+>Link->https://practice.geeksforgeeks.org/problems/d7e0ce338b11f0be36877d9c35cc8dfad6636957/1
+#### 11th Jan
+> TAG->Medium
+<br>
+>Link->https://practice.geeksforgeeks.org/problems/6e63df6d2ebdf6408a9b364128bb1123b5b13450/1

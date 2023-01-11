@@ -34,3 +34,11 @@
 > TAG->Easy
 <br>
 > Link->https://leetcode.com/problems/binary-tree-preorder-traversal/
+#### 10th Jan
+> TAG->Easy
+<br>
+> Link->https://leetcode.com/problems/same-tree/
+#### 11th Jan
+> TAG->Medium
+<br>
+> Link->https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
