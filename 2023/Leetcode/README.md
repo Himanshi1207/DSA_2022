@@ -42,3 +42,15 @@
 > TAG->Medium
 <br>
 > Link->https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
+#### 12th Jan
+> TAG->Medium
+<br>
+> Link->https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
+#### 13th Jan
+> TAG->Hard
+<br>
+> Link->https://leetcode.com/problems/longest-path-with-different-adjacent-characters/
+#### 14th Jan
+> TAG->Medium
+<br>
+> Link->https://leetcode.com/problems/lexicographically-smallest-equivalent-string/

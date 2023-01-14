@@ -44,3 +44,15 @@
 > TAG->Medium
 <br>
 >Link->https://practice.geeksforgeeks.org/problems/6e63df6d2ebdf6408a9b364128bb1123b5b13450/1
+#### 12th Jan
+> TAG->Easy
+<br>
+>Link->https://practice.geeksforgeeks.org/problems/86e609332c9ef4f6b8aa79db11a6c0808c4a1bca/1
+#### 13th Jan
+> TAG->Hard
+<br>
+>Link->https://practice.geeksforgeeks.org/problems/e9e2da3de3eb35679ca7e17b752ae877635f1a26/1
+#### 14th Jan
+> TAG->Hard
+<br>
+>Link->https://practice.geeksforgeeks.org/problems/maximum-number-of-toys/1
