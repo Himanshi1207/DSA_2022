@@ -54,3 +54,7 @@
 > TAG->Medium
 <br>
 > Link->https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+#### 15th Jan
+> TAG->Hard
+<br>
+> Link->https://leetcode.com/problems/number-of-good-paths/
