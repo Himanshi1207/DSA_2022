@@ -60,3 +60,7 @@
 > TAG->Hard
 <br>
 >Link->https://practice.geeksforgeeks.org/problems/f72994353d123b925ff20f0694b662191df03ea2/1
+#### 16th Jan
+> TAG->Medium
+<br>
+>Link->https://practice.geeksforgeeks.org/problems/214734e358208c1c6811d9b237b518f6b3c3c094/1

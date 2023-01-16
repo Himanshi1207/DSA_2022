@@ -58,3 +58,7 @@
 > TAG->Hard
 <br>
 > Link->https://leetcode.com/problems/number-of-good-paths/
+#### 16th Jan
+> TAG->Medium
+<br>
+> Link->https://leetcode.com/problems/insert-interval/
